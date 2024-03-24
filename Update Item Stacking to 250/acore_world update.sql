@@ -1,0 +1,1 @@
+UPDATE stackable=250 FROM item_template t WHERE t.stackable = 20;
